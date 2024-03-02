@@ -1,0 +1,22 @@
+/* times-new-roman-regular - latin */
+@font-face {
+  font-family: 'Times';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('fonts/times-new-roman.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/times-new-roman.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* merriweather-italic - latin */
+@font-face {
+  font-family: 'Times';
+  font-style: italic;
+  font-weight: 400;
+  src: local(''),
+       url('fonts/times-new-roman.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/times-new-roman.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+body {
+  font-family: 'Times', serif;
+}
