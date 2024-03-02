@@ -1,0 +1,70 @@
+baseURL: https://example.com
+languageCode: en-us
+title: Patricia Alonso-Álvarez
+theme: hugo-theme-anubis
+paginate: 3
+disqusShortname: ''
+googleAnalytics: ''
+author:
+  name: Patricia Alonso-Álvarez
+params:
+  GiscusCategory: ''
+  GiscusCategoryId: ''
+  GiscusLazyLoad: no
+  GiscusRepo: ''
+  GiscusRepoId: ''
+  author: Patricia Alonso-Álvarez
+  copyCodeButton: yes
+  dateFormat: '2006-01-02'
+  description: PhD candidate at Universidad Carlos III de Madrid, Spain
+  graphcommentId: ''
+  mathjax: no
+  paginationSinglePost: yes
+  readMore: no
+  readNextPosts: 0
+  rssAsSocialIcon: no
+  social:
+    - id: osf
+      url: https://osf.io/puc3b
+    - id: googlescholar
+      url: https://scholar.google.com/citations?user=ondua_AAAAAJ&hl=en  
+    - id: github
+      url: https://github.com/alonsoalvarezp
+    - id: ORCID
+      url: https://orcidiorg/0000-0002-9305-6024  
+    - id: twitter
+      url: https://twitter.com/palonsoal
+  style: light
+  utterancesIssue: ''
+  utterancesLabel: ''
+  utterancesRepo: ''
+  utterancesTheme: ''
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 4
+    - identifier: cv
+      name: cv
+      url: /CV/
+      weight: 5
+    - identifier: research-lines
+      name: research lines
+      url: /research-lines/
+      weight: 1
+    - identifier: projects
+      name: projects
+      url: /projects/
+      weight: 3
+    - identifier: publications
+      name: publications
+      url: /publications/
+      weight: 2
+taxonomies:
+  category: categories
+  tag: tags
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes

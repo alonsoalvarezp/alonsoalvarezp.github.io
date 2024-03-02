@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference Proceeding on Patricia Alonso-Álvarez</title>
+    <link>https://example.com/tags/conference-proceeding/</link>
+    <description>Patricia Alonso-Álvarez (Conference Proceeding)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jul 2023 00:00:00 +0000</lastBuildDate>
+    
+    <atom:link href="https://example.com/tags/conference-proceeding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On regional knowledge systems and the limitations of mainstream academic databases preliminary findings</title>
+      <link>https://example.com/publications_blog/issi2023/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications_blog/issi2023/</guid>
+      <description>&lt;p&gt;The unequal knowledge production and dissemination structure divide the world&amp;rsquo;s academic system into a dominating mainstream circuit and a peripherical one. Several local and international initiatives have recently emerged to reduce regional inequalities and build alternative transnational publishing circuits. This project studies alternative publishing circuits and their representation in international bibliometric databases. To do so, it focuses on the African publishing environment. Using Ulrich’s periodicals database, a regional journal platform (African Journals Online, AJOL hereafter), Scimago Journal Ranking (SJR), and Journal Citation Reports (JCR) data, this paper shows the coverage of the databases of African journals and their relative coverage in terms of countries and research areas. The results show that mainstream databases are biased toward specific countries and research areas, which has important social and academic implications. Building on the preliminary findings presented here, this work will be developed further by including additional variables, improving research area assignation, and considering analysis at the publication level.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

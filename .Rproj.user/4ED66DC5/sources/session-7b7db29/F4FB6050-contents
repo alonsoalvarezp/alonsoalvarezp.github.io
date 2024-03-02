@@ -1,0 +1,23 @@
+---
+author: Patricia Alonso-Álvarez
+date: "2014-01"
+description: ""
+menu:
+  publications:
+    identifier: journal-articles
+    parent: publications
+    name: journal articles
+    title: journal articles
+    url: /journal_articles/
+    weight: 1
+  subpage:
+    identifier: publications/conference-proceedings
+    parent: publications
+    name: conference proceedings
+    title: conference proceedings
+    url: /publications/conference_proceedings/
+    weight: 10
+title: Conference Proceedings
+---
+
+Hola
