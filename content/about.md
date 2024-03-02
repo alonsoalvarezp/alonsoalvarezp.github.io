@@ -1,8 +1,4 @@
 ---
-aliases:
-- about-us
-- about-hugo
-- contact
 author: Patricia Alonso-Álvarez
 date: "2014-01"
 description: About me
