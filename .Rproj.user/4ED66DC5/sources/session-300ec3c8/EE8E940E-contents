@@ -10,8 +10,12 @@ title: "Open Science and the effects of current publishing models"
 
 This line of work explores how current publishing models impact researchers, funders and institutions. It focuses on the challenges regarding open science and, specifically, the expansion of open access publishing. In particular, I am interested in both the economic and ethical implications of both subscription and open models. My main concern are the negative side-effects of open access publication systems, especially for researchers affected by structural inequalities.
 
+<br>
 
-Related publications
+
+<hr style="width:500px; margin: auto;" />
+
+### Related publications
 
 Alonso-Álvarez, P., Sastrón-Toledo, P., & Mañana-Rodríguez, J. (Accepted). The cost of Open Access: Comparing public projects’ budgets and Article Processing Charges expenditure. _Scientometrics_. [Preprint: https://doi.org/10.31235/osf.io/98j5p](https://doi.org/10.31235/osf.io/98j5p)<br>
 Postprint version available [here](/postprints/the_cost_of_open_access.pdf)
