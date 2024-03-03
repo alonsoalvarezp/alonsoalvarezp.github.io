@@ -2,7 +2,8 @@
 author: Patricia Alonso-Álvarez
 date: 2024-02-29
 summary: Alonso-Álvarez, Patricia
-title: Exploring research quality and journal representation - A comparative study of African Journals Online, Web of Science, and Scopus
+title: 'Preprint. Exploring research quality and journal representation: A comparative study of African Journals Online, Web of Science, and Scopus'
+categories: ['epistemic injustices', 'research quality', 'journal representation', 'ajol', 'jpps', 'wos', 'scopus']
 ---
 
 This page includes information on a paper currently under review. Here you have access to the full text, materials and code.

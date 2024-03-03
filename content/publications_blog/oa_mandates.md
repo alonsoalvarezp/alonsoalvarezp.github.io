@@ -3,7 +3,8 @@ author: Patricia Alonso-Álvarez
 date: 2024-02-17
 description: accepted paper
 summary: Sastrón-Toledo, Pablo; Alonso-Álvarez, Patricia; Mañana-Rodríguez, Jorge
-title: Compliance with open access mandates and its effects on research visibility - the case of the Spanish National Plan of R&D
+title: 'Accepted paper. Compliance with open access mandates and its effects on research visibility: The case of the Spanish National Plan of R&D'
+categories: ['open access mandates', 'open access', 'open science', 'project funding', 'spanish plan of r&d']
 ---
 
 **Abstract**<br>

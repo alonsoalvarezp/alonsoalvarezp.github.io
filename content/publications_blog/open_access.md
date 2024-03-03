@@ -2,7 +2,8 @@
 author: Patricia Alonso-Álvarez
 date: 2024-02-27
 summary: Alonso-Álvarez, Patricia; Sastrón-Toledo, Pablo; Mañana-Rodríguez, Jorge
-title: The cost of Open Access - Comparing public projects’ budgets and Article Processing Charges expenditure
+title: 'Accepted paper. The cost of Open Access: Comparing public projects’ budgets and Article Processing Charges expenditure'
+categories: ['article processing charges', 'open access', 'open science', 'spanish plan of r&d']
 ---
 
 This page includes information on a accepted paper to be published in the journal Scientometrics. Here you have access to the full text, materials and code.
