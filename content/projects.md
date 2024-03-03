@@ -1,6 +1,4 @@
 ---
-aliases:
-- projects
 author: Patricia Alonso-Álvarez
 date: ""
 description: Projects
@@ -25,7 +23,7 @@ Period: 2020-2023\
 
 ---
 
-## CM-INSLUSIVA: Towards the consolidation of inclusive cities, a challenge for Madrid
+## CM-INCLUSIVA: Towards the consolidation of inclusive cities, a challenge for Madrid
 
 Grant number: H2019/HUM5744\
 Funding entity:  Madrid Education, Science and Universities Office\

@@ -1,6 +1,6 @@
 ---
 author: Patricia Alonso-Álvarez
-date: "2020-2023"
+date: ""
 description: cv
 title: CV
 ---
