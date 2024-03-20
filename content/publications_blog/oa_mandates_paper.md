@@ -1,10 +1,14 @@
 ---
 author: Patricia Alonso-Álvarez
-date: 2024-02-17
-description: accepted paper
+date: 2024-03-20
+description: paper
 summary: Sastrón-Toledo, Pablo; Alonso-Álvarez, Patricia; Mañana-Rodríguez, Jorge
-title: 'Accepted paper. Compliance with open access mandates and its effects on research visibility: The case of the Spanish National Plan of R&D'
+title: 'Paper. Compliance with open access mandates and its effects on research visibility: The case of the Spanish National Plan of R&D'
 categories: ['open access mandates', 'open access', 'open science', 'project funding', 'spanish plan of r&d']
+---
+
+This page includes information on a paper published in the journal Scientometrics. Here you have access to the postprint (and preprint) version.
+
 ---
 
 **Abstract**<br>
@@ -12,8 +16,14 @@ This paper evaluates the Spanish open access (OA hereafter) mandate and its effe
 
 ---
 
+**Journal version**<br>
+Full paper [here](https://link.springer.com/article/10.1007/s11192-024-04978-5) (under suscription)
+
 **Postprint**<br>
 Access the postprint [here](/postprints/compliance_with_oa_mandates.pdf)
+
+**Preprint**<br>
+Preprint version available in [OSF](https://osf.io/preprints/socarxiv/dmpny)
 
 **Open data**<br>
 Data used in this project is part of the one of one of the authors' thesis project and will be made public only after it is completed.
