@@ -3,7 +3,7 @@ author: Patricia Alonso-Álvarez
 date: 2024-03-20
 description: paper
 summary: Sastrón-Toledo, Pablo; Alonso-Álvarez, Patricia; Mañana-Rodríguez, Jorge
-title: 'Paper. Compliance with open access mandates and its effects on research visibility: The case of the Spanish National Plan of R&D'
+title: 'Journal article. Compliance with open access mandates and its effects on research visibility: The case of the Spanish National Plan of R&D'
 categories: ['open access mandates', 'open access', 'open science', 'project funding', 'spanish plan of r&d']
 ---
 
