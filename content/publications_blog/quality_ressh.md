@@ -4,7 +4,7 @@ date: 2024-05-20
 description: conference paper
 summary: Alonso-Álvarez, Patricia
 title: 'Conference paper. Towards a situated notion of research quality: An exploratory study of three journal quality frameworks'
-categories: ['research quality', 'epistemic injustice', 'diversity']
+categories: ['research quality', 'epistemic injustice', 'diversity', 'ajol', 'jpps', 'scopus', 'wos']
 ---
 
 This page contains the conference paper presented at the RESSH conference 2024, awarded with one of the 'Best Student Paper' awards.
