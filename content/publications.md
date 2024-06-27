@@ -7,20 +7,22 @@ title: ""
 
 ## Forthcoming
 
-Alonso-Álvarez, P. (Accepted). Exploring research quality and journal representation: A comparative study of African Journals Online, Web of Science, and Scopus. [Preprint: https://doi.org/10.31235/osf.io/tchxz](https://doi.org/10.31235/osf.io/tchxz)<br>
+Alonso-Álvarez, P. (Accepted). Exploring research quality and journal representation: A comparative study of African Journals Online, Web of Science, and Scopus.<br> 
+Preprint [here](https://doi.org/10.31235/osf.io/tchxz)<br>
 Data and materials [here](https://doi.org/10.17605/OSF.IO/E2F6Z)
 
 ---
 
-Alonso-Álvarez, P., Sastrón-Toledo, P., & Mañana-Rodríguez, J. (Accepted). The cost of Open Access: Comparing public projects’ budgets and Article Processing Charges expenditure. _Scientometrics_. [Preprint: https://doi.org/10.31235/osf.io/98j5p](https://doi.org/10.31235/osf.io/98j5p)<br>
-Postprint version available [here](/postprints/the_cost_of_open_access.pdf)
+Alonso-Álvarez, P., Sastrón-Toledo, P., & Mañana-Rodríguez, J. (Accepted). The cost of Open Access: Comparing public projects’ budgets and Article Processing Charges expenditure. _Scientometrics_.<br> 
+Preprint available [here](https://doi.org/10.31235/osf.io/98j5p)<br>
+Postprint available [here](/postprints/the_cost_of_open_access.pdf)
 
 ## 2024
 
-Sastrón-Toledo, P., Alonso-Álvarez, P., & Mañana-Rodríguez, J. (2024). Compliance with open access mandates and its effects on research visibility: the case of the Spanish National Plan of R&D. _Scientometrics, 129_, 2057–2081. https://doi.org/10.1007/s11192-024-04978-5 
-Read-only version [here](https://rdcu.be/dBWHM))
-[Preprint: https://doi.org/10.31235/osf.io/dmpny](https://doi.org/10.31235/osf.io/dmpny)<br>
-Postprint version available [here](/postprints/compliance_with_oa_mandates.pdf)
+Sastrón-Toledo, P., Alonso-Álvarez, P., & Mañana-Rodríguez, J. (2024). Compliance with open access mandates and its effects on research visibility: the case of the Spanish National Plan of R&D. _Scientometrics, 129_, 2057–2081. https://doi.org/10.1007/s11192-024-04978-5<br>
+Read-only version [here](https://rdcu.be/dBWHM)<br>
+Preprint available [here](https://doi.org/10.31235/osf.io/dmpny)<br>
+Postprint available [here](/postprints/compliance_with_oa_mandates.pdf)
 
 
 # Conference proceedings
