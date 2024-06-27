@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/my_website/content/publications.md",
     "project_path": "content/publications.md",
     "type": "markdown",
-    "hash": "0",
+    "hash": "774057390",
     "contents": "",
     "dirty": false,
     "created": 1719507389137.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "9,28",
-        "scrollLine": "6"
+        "cursorPosition": "16,0",
+        "scrollLine": "11"
     },
     "folds": "",
-    "lastKnownWriteTime": 1719507709,
+    "lastKnownWriteTime": 1719508163,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1719507709975,
+    "last_content_update": 1719508163427,
     "read_only": false,
     "read_only_alternatives": []
 }

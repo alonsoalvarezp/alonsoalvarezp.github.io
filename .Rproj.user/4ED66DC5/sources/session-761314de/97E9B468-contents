@@ -3,7 +3,7 @@ author: Patricia Alonso-Álvarez
 date: 2024-05-20
 description: conference paper
 summary: Alonso-Álvarez, Patricia
-title: 'Towards a situated notion of research quality: An exploratory study of three journal quality frameworks'
+title: 'Conference abstract: Towards a situated notion of research quality: An exploratory study of three journal quality frameworks'
 categories: ['research quality', 'epistemic injustice', 'diversity']
 ---
 
