@@ -36,7 +36,7 @@ params:
       url: https://orcid.org/0000-0002-9305-6024  
     - id: twitter
       url: https://twitter.com/palonsoal
-  style: light
+  style: light-without-switcher
   utterancesIssue: ''
   utterancesLabel: ''
   utterancesRepo: ''
