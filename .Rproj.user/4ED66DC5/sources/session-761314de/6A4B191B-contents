@@ -17,7 +17,7 @@ This paper evaluates the Spanish open access (OA hereafter) mandate and its effe
 ---
 
 **Journal version**<br>
-Full paper [here](https://link.springer.com/article/10.1007/s11192-024-04978-5) (under suscription)
+Full paper [here](https://link.springer.com/article/10.1007/s11192-024-04978-5) (under suscription, read-only version [here](https://rdcu.be/dBWHM))
 
 **Postprint**<br>
 Access the postprint [here](/postprints/compliance_with_oa_mandates.pdf)
