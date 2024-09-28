@@ -2,7 +2,7 @@
 author: Patricia Alonso-Álvarez
 date: 2024-09-28
 summary: Alonso-Álvarez, Patricia; van Eck, Nees Jan
-title: 'Coverage and metadata availability of African publications in OpenAlex: A comparative analysis'
+title: 'Preprint. Coverage and metadata availability of African publications in OpenAlex: A comparative analysis'
 categories: ['database coverage', 'metadata availability', 'metadata quality', 'openalex', 'scopus', 'wos', 'ajol']
 ---
 

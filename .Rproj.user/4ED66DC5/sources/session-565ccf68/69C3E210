@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/my_website/content/publications_blog/coverage_openalex_preprint.md",
     "project_path": "content/publications_blog/coverage_openalex_preprint.md",
     "type": "markdown",
-    "hash": "3037625233",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1727533009753.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "5,76",
+        "cursorPosition": "4,18",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1727533414,
+    "lastKnownWriteTime": 1727533597,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1727533414615,
+    "last_content_update": 1727533597846,
     "read_only": false,
     "read_only_alternatives": []
 }
