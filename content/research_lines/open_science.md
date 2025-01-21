@@ -17,12 +17,12 @@ This line of work explores how current publishing models impact researchers, fun
 
 ### Related publications
 
-Alonso-Álvarez, P., Sastrón-Toledo, P., & Mañana-Rodríguez, J. (2024). The cost of Open Access: Comparing public projects’ budgets and Article Processing Charges expenditure. _Scientometrics, 129_, 6149–6166. https://doi.org/10.1007/s11192-024-04988-3<br> 
+Alonso-Álvarez, P., Sastrón-Toledo, P., & Mañana-Rodríguez, J. (2024). The cost of Open Access: Comparing public projects’ budgets and Article Processing Charges expenditure. _Scientometrics, 129_, 6149–6166. https://doi.org/10.1007/s11192-024-04988-3 <br> 
 [Preprint](https://doi.org/10.31235/osf.io/98j5p)<br>
 [Postprint](/postprints/the_cost_of_open_access.pdf)
 
 ---
 
-Sastrón-Toledo, P., Alonso-Álvarez, P., & Mañana-Rodríguez, J. (Accepted). Compliance with open access mandates and its effects on research visibility: the case of the Spanish National Plan of R&D. _Scientometrics_. 
+Sastrón-Toledo, P., Alonso-Álvarez, P., & Mañana-Rodríguez, J. (2024). Compliance with open access mandates and its effects on research visibility: the case of the Spanish National Plan of R&D. _Scientometrics, 129_, 2057–2081. https://doi.org/10.1007/s11192-024-04978-5 <br>
 [Preprint](https://doi.org/10.31235/osf.io/dmpny)<br>
 [Postprint](/postprints/the_cost_of_open_access.pdf)

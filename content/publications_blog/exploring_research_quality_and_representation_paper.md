@@ -15,7 +15,7 @@ The unequal knowledge production and dissemination structure divide the world's 
 
 ---
 
-**Journal version**<br>
+**Journal version** <br>
 Full paper [here](https://academic.oup.com/rev/article-abstract/doi/10.1093/reseval/rvae057/7912488)
 
 **Preprint**<br>
