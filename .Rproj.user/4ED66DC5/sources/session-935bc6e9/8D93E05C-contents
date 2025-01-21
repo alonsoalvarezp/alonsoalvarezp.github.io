@@ -9,21 +9,21 @@ title: ""
 ## 2024
 
 Alonso-Álvarez, P. (2024). Exploring research quality and journal representation: A comparative study of African Journals Online, Web of Science, and Scopus. _Research Evaluation, 33_, rvae057. https://doi.org/10.1093/reseval/rvae057 <br> 
-Preprint version available [here](https://doi.org/10.31235/osf.io/tchxz)<br>
-Data and materials available [here](https://doi.org/10.17605/OSF.IO/E2F6Z)
+[Preprint](https://doi.org/10.31235/osf.io/tchxz)<br>
+[Postprint](https://doi.org/10.17605/OSF.IO/E2F6Z)
 
 ---
 
 Alonso-Álvarez, P., Sastrón-Toledo, P., & Mañana-Rodríguez, J. (2024). The cost of Open Access: Comparing public projects’ budgets and Article Processing Charges expenditure. _Scientometrics, 129_, 6149–6166. https://doi.org/10.1007/s11192-024-04988-3<br> 
-Preprint version available [here](https://doi.org/10.31235/osf.io/98j5p)<br>
-Postprint version available [here](/postprints/the_cost_of_open_access.pdf)
+[Preprint](https://doi.org/10.31235/osf.io/98j5p)<br>
+[Postprint](/postprints/the_cost_of_open_access.pdf)
 
 ---
 
 Sastrón-Toledo, P., Alonso-Álvarez, P., & Mañana-Rodríguez, J. (2024). Compliance with open access mandates and its effects on research visibility: the case of the Spanish National Plan of R&D. _Scientometrics, 129_, 2057–2081. https://doi.org/10.1007/s11192-024-04978-5<br>
 Under subscription, read-only version available [here](https://rdcu.be/dBWHM)<br>
-Preprint version available [here](https://doi.org/10.31235/osf.io/dmpny)<br>
-Postprint version available [here](/postprints/compliance_with_oa_mandates.pdf)
+[Preprint](https://doi.org/10.31235/osf.io/dmpny)<br>
+[Postprint](/postprints/compliance_with_oa_mandates.pdf)
 
 
 # Conference proceedings
