@@ -9,8 +9,9 @@ title: "Projects"
 
 Grant number: PIPF-2022/PH-HUM-25403\
 Funding entity: Madrid Education, Science and Universities Office\
-Period: 2023-2026
+Period: 2023-2026\
 [Thesis full-text](postprints/Alonso-Alvarez-P_epistemic-injustice-in-science)
+
 
 ---
 
@@ -22,6 +23,7 @@ Role: scientific team\
 Period: 2024-2026\
 [Project website](https://cordis.europa.eu/project/id/101162110)
 
+
 ---
 
 ## UNINCA: Open Science and Citizen Science for a more sustainable and inclusive society: contributions from the Spanish University System.
@@ -32,6 +34,7 @@ Role: scientific team\
 Period: 2024-2027\
 Project website under construction
 
+
 ---
 
 ## MADRIDNIGHT: Researchers and citizens: facing together the European challenges.
@@ -39,7 +42,8 @@ Project website under construction
 Grant number: GA101061343\
 Funding entity: European Commission\
 Role: scientific team\
-Period: 2022-2024\
+Period: 2022-2024
+
 
 ---
 
@@ -51,6 +55,7 @@ Role: scientific team\
 Period: 2020-2023\
 [Project website](https://www.inaecu.com/proyectos-competitivos/diagnostico-de-la-os-en-la-universidad-espanola-e-instrumentos-para-su-transformacion-y-mejora/)
 
+
 ---
 
 ## CM-INCLUSIVA: Towards the consolidation of inclusive cities, a challenge for Madrid
@@ -60,3 +65,4 @@ Funding entity:  Madrid Education, Science and Universities Office\
 Role: scientific team\
 Period: 2020-2023\
 [Project website](https://www.inaecu.com/proyectos-competitivos/ciudades-inclusivas-madrid/)
+
